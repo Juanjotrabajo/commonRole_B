@@ -2,4 +2,4 @@
 # tasks file for commonRole_B
 - name: commonRole_B
   debug:
-    msg: "This is commonRole_B v1.0"
+    msg: "This is commonRole_B v2.0"
