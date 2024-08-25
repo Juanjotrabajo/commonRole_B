@@ -1,2 +1,5 @@
 ---
 # tasks file for commonRole_B
+- name: commonRole_B
+  debug:
+    msg: "This is commonRole_B v0.1"
